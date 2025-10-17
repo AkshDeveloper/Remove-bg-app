@@ -1,0 +1,25 @@
+body {
+  background: #0a0a0a;
+  color: #fff;
+  font-family: "Poppins", sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  text-align: center;
+}
+
+input, button {
+  margin: 10px;
+  padding: 10px;
+  font-size: 16px;
+}
+
+img {
+  margin-top: 20px;
+  max-width: 300px;
+  border-radius: 10px;
+}
